@@ -1,0 +1,16 @@
+D:\studio project\ReplaceData\ReplaceData\bin\Debug\netcoreapp3.1\ReplaceData.exe
+D:\studio project\ReplaceData\ReplaceData\bin\Debug\netcoreapp3.1\ReplaceData.deps.json
+D:\studio project\ReplaceData\ReplaceData\bin\Debug\netcoreapp3.1\ReplaceData.runtimeconfig.json
+D:\studio project\ReplaceData\ReplaceData\bin\Debug\netcoreapp3.1\ReplaceData.runtimeconfig.dev.json
+D:\studio project\ReplaceData\ReplaceData\bin\Debug\netcoreapp3.1\ReplaceData.dll
+D:\studio project\ReplaceData\ReplaceData\bin\Debug\netcoreapp3.1\ReplaceData.pdb
+D:\studio project\ReplaceData\ReplaceData\obj\Debug\netcoreapp3.1\ReplaceData.csproj.AssemblyReference.cache
+D:\studio project\ReplaceData\ReplaceData\obj\Debug\netcoreapp3.1\ReplaceData.Form1.resources
+D:\studio project\ReplaceData\ReplaceData\obj\Debug\netcoreapp3.1\ReplaceData.csproj.GenerateResource.cache
+D:\studio project\ReplaceData\ReplaceData\obj\Debug\netcoreapp3.1\ReplaceData.GeneratedMSBuildEditorConfig.editorconfig
+D:\studio project\ReplaceData\ReplaceData\obj\Debug\netcoreapp3.1\ReplaceData.AssemblyInfoInputs.cache
+D:\studio project\ReplaceData\ReplaceData\obj\Debug\netcoreapp3.1\ReplaceData.AssemblyInfo.cs
+D:\studio project\ReplaceData\ReplaceData\obj\Debug\netcoreapp3.1\ReplaceData.csproj.CoreCompileInputs.cache
+D:\studio project\ReplaceData\ReplaceData\obj\Debug\netcoreapp3.1\ReplaceData.dll
+D:\studio project\ReplaceData\ReplaceData\obj\Debug\netcoreapp3.1\ReplaceData.pdb
+D:\studio project\ReplaceData\ReplaceData\obj\Debug\netcoreapp3.1\ReplaceData.genruntimeconfig.cache
