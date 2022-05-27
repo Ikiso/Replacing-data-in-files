@@ -15,7 +15,7 @@ the second element after equal is the result that will be after the replacement:
 # Запуск программы
 
 1. Чтобы запустить программу скачайте полный архив
-2. Выберете оттуда папку Release/netcoreapp3.1
+2. Выберете от туда папку Release/netcoreapp3.1
 3. Зайдите в неё
 4. Запустите ReplaceData.exe
 
