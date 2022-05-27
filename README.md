@@ -12,6 +12,13 @@ the second element after equal is the result that will be after the replacement:
 Бугуруслан=6278a2ace90095b26a378d25
 Бузулук=6278a2ace90095b26a378d26
 
+# Запуск программы
+
+1. Чтобы запустить программу скачайте полный архив
+2. Выберете оттуда папку Release/netcoreapp3.1
+3. Зайдите в неё
+4. Запустите ReplaceData.exe
+
 # Вид входных данных (ID)
 
 ![Входные данные](https://user-images.githubusercontent.com/86127025/170691565-03be71d1-785f-4cc9-9d86-b4ababf868c0.png)
