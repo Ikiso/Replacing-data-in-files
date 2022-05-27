@@ -12,6 +12,11 @@ the second element after equal is the result that will be after the replacement:
 Бугуруслан=6278a2ace90095b26a378d25
 Бузулук=6278a2ace90095b26a378d26
 
+# Вид входных данных (ID)
+
+![Входные данные](https://user-images.githubusercontent.com/86127025/170691565-03be71d1-785f-4cc9-9d86-b4ababf868c0.png)
+
+
 # Действия которые нужно выполнить для изменения данных
 
 ![Исохдный](https://user-images.githubusercontent.com/86127025/170691339-b311d80e-023d-484c-aeda-713b4444c0bb.png)
